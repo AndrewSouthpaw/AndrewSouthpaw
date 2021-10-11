@@ -3,7 +3,7 @@
 
 😄 &nbsp;Pronouns: he/him
 
-💻 &nbsp;Position: Engineering Lead @ [Transparent Classroom](https://www.transparentclassroom.com)
+💻 &nbsp;Position: Staff Engineer @ [Gather](https://gather.town)
 
 💌 &nbsp;Contact: [Email](mailto:andrewsmith@alumni.stanford.edu), [Twitter](https://twitter.com/andrewsouthpaw)
 
